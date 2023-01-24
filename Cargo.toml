@@ -1,0 +1,12 @@
+[package]
+authors = ["Yvan Sraka <yvan@sraka.xyz>"]
+description = "A tool that helps you to turn in one command a Rust crate into a Haskell Stack library"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+name = "cargo-stack"
+repository = "https://github.com/yvan-sraka/cargo-cabal"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
